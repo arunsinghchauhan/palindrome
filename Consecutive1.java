@@ -2,7 +2,7 @@ public class Consecutive1 {
 
 	
 	int[] arr={1,0,0,1,1,1,0,1,1,1,1,1,0,0,1};
-	int temp=0,max=0;
+	int temp=0,max=0, min=0;
 	
 	public void traversearr()
 	{
